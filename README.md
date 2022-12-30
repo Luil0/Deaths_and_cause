@@ -24,5 +24,5 @@ There was a big jump from 2019 to 2020 but in 2021 the number of deaths went bac
 
 In this histogram we wanted to know how if there was any diffrences in the number of deaths each week. 
 
-We can see that there are more than 20 weeks that are betweeen 270,000 and 280,000 number of deaths.
+We can see that there are more than 20 weeks that have between 270,000 and 280,000 number of deaths.
 
