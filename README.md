@@ -5,3 +5,7 @@
 
 Tableau map for deaths per state can be found [here](https://public.tableau.com/app/profile/luis5517/viz/Numberofdeathsperstate/Deaths_byStateDashboard)
 
+## Number of deaths for each cause
+![Bar chart](death_causes_project/deaths_per_cause_barchart.png)
+
+This graph showes the number of 
