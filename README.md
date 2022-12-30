@@ -8,12 +8,21 @@ Tableau map for deaths per state can be found [here](https://public.tableau.com/
 ## Number of deaths for each cause
 ![Bar chart](death_causes_project/deaths_per_cause_barchart.png)
 
-This graph showes the number of deaths in millions for each cause we can see that circulatory disease is the cause with the most deaths from 2015 to 2021 
+This graph showes the number of deaths in millions for each cause we can see that circulatory disease is the cause with the most deaths from 2015 to 2021.
 
 
 ## Number of deaths each year
-![not line](death_causes_project/years_deaths_line_chart.png)
+![line chart over years](death_causes_project/years_deaths_line_chart.png)
 
+In this graph we wanted to know how the amount of deaths changed each year, the year 2022 was excluded because it did not have the number of deaths for the full year. 
+This line chart showes the change fromn 2015 to 2021.
 
-## 
-![line chart](death_causes_project/num_death_hist.png)
+There was a big jump from 2019 to 2020 but in 2021 the number of deaths went back down.
+
+## Number of deaths each week frequency
+![histogram frequency and number of deaths](death_causes_project/num_death_hist.png)
+
+In this histogram we wanted to know how if there was any diffrences in the number of deaths each week. 
+
+We can see that there are more than 20 weeks that are betweeen 270,000 and 280,000 number of deaths.
+
